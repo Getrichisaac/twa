@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[237],{4445:(e,t,n)=>{n.r(t),n.d(t,{default:()=>s});var o=n(9901),c=n(2865),r=n(3627),a=n(6172);function s(){const{siteConfig:e}=(0,c.Z)();return o.createElement(r.Z,{noFooter:!0,description:e.tagline},o.createElement(a.l_,{to:"docs/from-authors"}))}}}]);
